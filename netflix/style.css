@@ -48,7 +48,7 @@ body{
 }
 
 .banner{
-  background-image: url(netflix/pic/banner.jpg);
+  background-image: url(pic/banner.jpg);
   background-size: cover;
   background-position: center center;
   color: white;
